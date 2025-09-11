@@ -1,2 +1,2 @@
 # hardvardx-ph526x
-Exercises and projects from Hardvardx PH526X course
+Exercises and projects from HardvardX PH526X course
